@@ -1,0 +1,8 @@
+{
+  "short_name": "面倒",
+  "name": "面倒",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
